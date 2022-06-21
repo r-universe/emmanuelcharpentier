@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "patchSynctex"]
+	path = patchSynctex
+	url = https://github.com/emmanuelcharpentier/patchsynctex
+	shallow = true
+	registered = true
